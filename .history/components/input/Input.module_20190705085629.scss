@@ -1,0 +1,15 @@
+@import '../../scss/library';
+
+.container {
+    padding: 10px;
+    background: $bgColor;
+    display: inline-flex;
+    margin: 10px;
+
+    &__input {
+        background: gray;
+        padding: 10px;
+        font-size: 16px;
+    }
+
+}
